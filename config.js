@@ -8,14 +8,14 @@
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 //contact details
-global.ownernomer = "916909137213"
-global.owner = ["916909137213"]
+global.ownernomer = "492713876676"
+global.owner = ["492713876676"]
 global.ownername = "Avast"
 global.ytname = "YT: Xeon"
 global.socialm = "GitHub: DGXeon"
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '919366316018'  //creator number
+global.ownernumber = '492713876676'  //creator number
 global.ownername = 'Avast' //owner name
 global.botname = 'Xeon Bug Bot V12' //name of the bot
 
