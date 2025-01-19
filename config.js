@@ -10,13 +10,13 @@
 //contact details
 global.ownernomer = "916909137213"
 global.owner = ["916909137213"]
-global.ownername = "🦄Dream Guy Xeon"
+global.ownername = "Avast"
 global.ytname = "YT: Xeon"
 global.socialm = "GitHub: DGXeon"
 global.location = "India, Mizoram, Aizawl"
 
 global.ownernumber = '919366316018'  //creator number
-global.ownername = '🦄Dream Guy Xeon' //owner name
+global.ownername = 'Avast' //owner name
 global.botname = 'Xeon Bug Bot V12' //name of the bot
 
 //sticker details
